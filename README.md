@@ -1,6 +1,6 @@
 # COMP2113 Proposal
 Proposal for COMP2113 Project
-Liang Zhuo UID:3035608849
+Liang Zhuo  UID:3035608849
 Wu Yuxi UID:3035534957
 We are going to use C++ to make the “24 Points” game.
 Rule:
